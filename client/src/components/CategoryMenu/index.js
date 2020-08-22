@@ -12,9 +12,9 @@ function CategoryMenu() {
 
   const dispatch = useDispatch(); 
 
-  const { categories } = state;
-
   const { loading, data: categoryData } = useQuery(QUERY_CATEGORIES);
+
+  const { categories } = state;
 
   useEffect(() => {
     if (categoryData) {
