@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
 </p>
 
-<h1 align="center">MERN Redux Shop 👋</h1>
+<h1 align="center">MERN Redux E-Commerce Store 👋</h1>
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/jpd61/shop-shop" />
@@ -33,7 +33,7 @@
   
 💻 Below is a screenshot of the application:
   
-![book-search-engine](https://github.com/jpd61/book-search-engine/raw/master/Capture.PNG)
+![book-search-engine](https://github.com/jpd61/shop-shop/raw/master/Capture.PNG)
 
 ## User Story
 
